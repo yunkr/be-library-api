@@ -34,35 +34,35 @@
 **member CRUD**
 - Spring MVC 아키텍처를 활용하여 Upcycling CRUD(Create, Read, Update, Delete) 기능을 구현
 - Controller에서 HTTP 요청을 처리하여 모델과 뷰를 연결하였으며, 각각의 요청에 대응하는 핸들러 메서드를 정의하여 비즈니스 로직을 수행
-- 📂[[블로그 참고]](https://tmdgus416.tistory.com/175)
+- 📂[[블로그 참고]](https://tmdgus416.tistory.com/182)
 
 <br/>
 
 **book CRUD**
 - Spring MVC 아키텍처를 활용하여 Upcycling CRUD(Create, Read, Update, Delete) 기능을 구현
 - Controller에서 HTTP 요청을 처리하여 모델과 뷰를 연결하였으며, 각각의 요청에 대응하는 핸들러 메서드를 정의하여 비즈니스 로직을 수행
-- 📂[[블로그 참고]](https://tmdgus416.tistory.com/175)
+- 📂[[블로그 참고]](https://tmdgus416.tistory.com/183)
 
 <br/>
 
 **loan CRUD**
 - Spring MVC 아키텍처를 활용하여 Upcycling CRUD(Create, Read, Update, Delete) 기능을 구현
 - Controller에서 HTTP 요청을 처리하여 모델과 뷰를 연결하였으며, 각각의 요청에 대응하는 핸들러 메서드를 정의하여 비즈니스 로직을 수행
-- 📂[[블로그 참고]](https://tmdgus416.tistory.com/175)
+- 📂[[블로그 참고]](https://tmdgus416.tistory.com/184)
 
 <br/>
 
 **inquiry CRUD**
 - Spring MVC 아키텍처를 활용하여 Upcycling CRUD(Create, Read, Update, Delete) 기능을 구현
 - Controller에서 HTTP 요청을 처리하여 모델과 뷰를 연결하였으며, 각각의 요청에 대응하는 핸들러 메서드를 정의하여 비즈니스 로직을 수행
-- 📂[[블로그 참고]](https://tmdgus416.tistory.com/175)
+- 📂[[블로그 참고]](https://tmdgus416.tistory.com/185)
 
 <br/>
 
 **사용자의 대출 히스토리**
 - Spring Boot 프레임워크에서 제공하는 @GetMapping, @RequestParam 등의 어노테이션을 활용하여 RESTful한 엔드포인트를 구성
 - 페이지네이션을 위해 Spring Data JPA의 Page와 Pageable기능을 활용하여 데이터 조회와 페이지 정보를 조합하여 제공
-- 📂[[블로그 참고]](https://tmdgus416.tistory.com/176)
+- 📂[[블로그 참고]](https://tmdgus416.tistory.com/186)
 
 <br>
 <br/>
